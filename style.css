@@ -1,3 +1,53 @@
-.initials {
-    background-color: yellow
+
+
+/* .Intro {
+
+} */
+
+#home_anchor {
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+.body {
+    border: 5px solid black;
+    background-color:  rgb(50, 107, 177);
+}
+
+.logo {
+    font-size: 25px;
+    color: rgb(244, 236, 236);
+    padding-left: 25px;
+
+    text-align: left;
+}
+
+.nav_bar {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#home_opening {
+    color: rgb(244, 236, 236);
+    font-size: 20px;
+    padding-left: 25px;
+    /* padding-top: 50px; */
+}
+
+.rubics_img {
+    position: relative;
+    text-align: right;
+    padding-right: 150px;
+
+
+}
+
+a {
+    color: rgb(237, 226, 226);
+    text-decoration: none;
+}
+
+.nav_bar a {
+    padding: 20px
 }
