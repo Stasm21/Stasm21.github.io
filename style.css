@@ -71,6 +71,8 @@ a {
 #about_me_anchor {
     padding-top: 250px;
     text-align: center;
+    color: rgb(218, 208, 208);
+    font-size: 35px;
 }
 
 .flex-container {
@@ -92,4 +94,30 @@ a {
     text-align: center;
     height: 300px;
     width: 600px;
+}
+
+#projects_anchor {
+    color: rgb(218, 208, 208);
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 1000px;
+}
+
+#contact_anchor {
+    color: rgb(218, 208, 208);
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+#contact_info {
+    padding-bottom: 1000px;
+    text-align: center;
+    color: rgb(237, 226, 226);
+}
+
+.my_pic {
+    max-height: 150px;
+    /* height: 100px;
+    width: 90px; */
 }
